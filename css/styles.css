@@ -1,7 +1,7 @@
 :root {
     --main-font:'Roboto',sans-serif;
     --secondary-font:'Raleway', sans-serif;
-    --accebt-color: black;
+    --accebt-color: #2196F3;
     --write-text-color: #fff;
     --color-address:#ffffff;
     --color-email-link:#757575;
@@ -30,7 +30,7 @@
     font-size: 26px;
     line-height: 1.19;
     letter-spacing: 0.03em;
-    color: #2196F3;
+    color: black;
   }  
 
 .web {
