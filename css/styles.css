@@ -2,6 +2,7 @@
     --main-font:'Roboto',sans-serif;
     --secondary-font:'Raleway', sans-serif;
     --accebt-color: #2196F3;
+    --accebt-color1: #fff;
     --write-text-color: #fff;
     --color-address:#ffffff;
     --color-email-link:#757575;
@@ -43,6 +44,15 @@
     color: var(--accebt-color);
 }
 
+.web1 {
+    font-family: var(--secondary-font);
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
+    color: var(--accebt-color1);
+}
 .navigation-link {
     font-style: normal;
     font-weight: 500;
